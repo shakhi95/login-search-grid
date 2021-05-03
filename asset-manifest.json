@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/login-search-grid/static/css/main.e69d1f00.chunk.css",
+    "main.js": "/login-search-grid/static/js/main.eceff74e.chunk.js",
+    "main.js.map": "/login-search-grid/static/js/main.eceff74e.chunk.js.map",
+    "runtime-main.js": "/login-search-grid/static/js/runtime-main.01a75c74.js",
+    "runtime-main.js.map": "/login-search-grid/static/js/runtime-main.01a75c74.js.map",
+    "static/js/2.0f3f0f44.chunk.js": "/login-search-grid/static/js/2.0f3f0f44.chunk.js",
+    "static/js/2.0f3f0f44.chunk.js.map": "/login-search-grid/static/js/2.0f3f0f44.chunk.js.map",
+    "index.html": "/login-search-grid/index.html",
+    "static/css/main.e69d1f00.chunk.css.map": "/login-search-grid/static/css/main.e69d1f00.chunk.css.map",
+    "static/js/2.0f3f0f44.chunk.js.LICENSE.txt": "/login-search-grid/static/js/2.0f3f0f44.chunk.js.LICENSE.txt",
+    "static/media/404.d9882fa3.png": "/login-search-grid/static/media/404.d9882fa3.png",
+    "static/media/mystyle.css": "/login-search-grid/static/media/Yekan.f717454d.ttf",
+    "static/media/loginImg.52fe8b63.jpg": "/login-search-grid/static/media/loginImg.52fe8b63.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01a75c74.js",
+    "static/js/2.0f3f0f44.chunk.js",
+    "static/css/main.e69d1f00.chunk.css",
+    "static/js/main.eceff74e.chunk.js"
+  ]
+}
