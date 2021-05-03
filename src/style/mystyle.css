@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "Yekan";
+  src: url("../assets/fonts/Yekan.eot");
+  /* IE9 Compat Modes */
+  src: url("../assets/fonts/Yekan.eot") format("embedded-opentype"),
+    url("../assets/fonts/Yekan.woff2") format("woff2"),
+    url("../assets/fonts/Yekan.woff") format("woff"),
+    url("../assets/fonts/Yekan.ttf") format("truetype");
+  /* Safari, Android, iOS */
+}
+
+body {
+  min-height: 100vh;
+  font-family: "Yekan";
+}
+
+/* removing annoying bootstrap shadow  */
+*:focus,
+*:active {
+  box-shadow: none !important;
+}
+
+/* login background */
+.bg-my-gradient {
+  background: #9053c7;
+  background: -webkit-linear-gradient(-135deg, #4158d0, #db70d4, #4158d0);
+  background: -o-linear-gradient(-135deg, #4158d0, #c850c0, #4158d0);
+  background: -moz-linear-gradient(-135deg, #4158d0, #c850c0, #4158d0);
+  background: linear-gradient(-135deg, #4158d0, #c850c0, #4158d0);
+}
+
+/* items */
+.itemCard {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+}
+
+.itemCard:hover {
+  transform: scale(1.02);
+  border-color: red;
+}
